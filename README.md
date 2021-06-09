@@ -1,2 +1,2 @@
-# polyfills
-JS Polyfills
+# Polyfills
+JavaScript Polyfills
